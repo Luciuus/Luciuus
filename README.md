@@ -11,13 +11,12 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![React]([https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge))&nbsp;
-![Next.js]([https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white))&nbsp;
-![Python]([https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54))&nbsp;
-![HTML5]([https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white))&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-Frontend-yellow)&nbsp;
-![JavaScript]([[https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square))&nbsp;
-
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 

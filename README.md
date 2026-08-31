@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=Luciuus&label=PROFILE+VIEWS) 
 
 ### 🛠 &nbsp;Tech Stack 
-![C++](https://shields.io)
+![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
